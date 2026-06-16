@@ -24,7 +24,7 @@ En este repositorio se incluyen:
 * Las simulaciones realizadas en MATLAB.
 * Las animaciones correspondientes al movimiento de cada robot.
 
-![robots](img/robots.png)
+![robots](img/robots.jpg)
 
 ---
 
